@@ -40,25 +40,6 @@ git clone https://github.com/noobcoder01/Connected.git
 cd Connected
 ```
 
-## Setup Turn and Ngrok
-
-`Turn`
-
-Not mandatory but `recommended`.
-
--   Create an account on http://numb.viagenie.ca
--   Get your Account USERNAME and PASSWORD
--   Fill in your credentials in the `.env` file
--   Set `TURN_ENABLED=true`, if you want enable the Turn Server.
-
-`Ngrok`
-
-Not mandatory at all, but useful for tests and debug.
-
--   Get started for free https://ngrok.com/
--   Fill in your authtoken in the `.env` file
--   Set `NGROK_ENABLED=true`, if you want to expose the server using the https tunnel, starting it from your local PC.
-
 ## Install dependencies
 
 ```js
