@@ -1,5 +1,5 @@
 # Connected
-~Web Browser based Free Video Calling platform~
+"Web Browser based Free Video Calling platform"
 <br>
  Hey everyone, I'm Shikhar Chauhan! 
  This is my entry for Microsoft Engage'21 --> https://microsoft.acehacker.com/engage2021
@@ -36,7 +36,7 @@
 -   Clone this repo
 
 ```bash
-git clone 
+git clone https://github.com/noobcoder01/Connected.git
 cd Connected
 ```
 
@@ -74,12 +74,5 @@ npm start
 -   Open http://localhost:3000 in browser
 
 ---
-
-## Credits
-
- (html [template](https://cruip.com/demos/neon/))
-
-From where I took inspiration for this project. ❤️
-
 
 <p align="center"> Made with ❤️ by <a href="https://www.linkedin.com/in/shikhar-chauhan-2001">Shikhar Chauhan</a></p>
